@@ -1,4 +1,4 @@
-[# Hi, I'm MORK Mongkul 👋
+# Hi, I'm MORK Mongkul 👋
 
 > *"Knowledge today might expire tomorrow — Never stop learning!"*
 
@@ -112,4 +112,5 @@ believing that the best solutions are both technically rigorous and beautifully 
 
 ## 💰 Support
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/morkmongkul)
+](https://www.morkmongkul.dev)
 ](https://www.morkmongkul.dev)
